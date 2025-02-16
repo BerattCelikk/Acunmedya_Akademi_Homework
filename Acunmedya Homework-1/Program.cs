@@ -1,7 +1,5 @@
 ﻿// Net&React Full Stack Ödevi
 
-//1: Sayının Pozitif, Negatif veya Sıfır Olduğunu Belirleme (if-else)
-
 namespace Acunmedya_Homework
 {
     class Program
